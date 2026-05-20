@@ -64,3 +64,22 @@ Applied a consistent banking-style blue theme for better presentation.
 ## Dashboard
 <img width="1366" height="768" alt="dashboard" src="https://github.com/user-attachments/assets/2a48a971-1826-4585-bd71-d57357c023f5" />
 
+## Project Insights
+1. Financial Insights
+* Total account balance reached approximately $75.44M
+* Total transaction value exceeded $11.41M
+* Transaction fees generated about $88.26K
+2. Customer Insights
+* Customers aged 35–44 contributed one of the highest transaction volumes
+* Credit card transactions slightly exceeded debit card usage
+* Mobile app and online banking channels were among the most used transaction methods
+3. Geographic Insights
+* Some states recorded significantly higher transaction activity than others
+* Transaction distribution across the United States showed strong regional engagement
+4. Operational Insights
+* Most transactions were successfully completed
+* ATM withdrawals, bill payments, and card payments were among the most frequent transaction types
+* Failed transactions represented a smaller portion of total activities
+## Final Conclusion
+
+The Chase Bank Transaction Dashboard successfully provided a comprehensive overview of banking activities and customer transaction behavior.
