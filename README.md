@@ -35,12 +35,14 @@ Dataset included:
 * Channels
 * Transaction fees
 * Account balances
+
 Step 2 —  Data Cleaning
 * Performed data cleaning using Power Query:
 * Removed duplicates
 * Fixed inconsistent text formatting
 * Corrected data types
 * Standardized categorical values
+
 Step 3 — Data Transformation
 - Created calculated measures using DAX
 - Generated KPIs:
@@ -48,6 +50,7 @@ Step 3 — Data Transformation
 * Total Transactions
 * Total Transaction Fees
 - Grouped customers into age categories
+  
 Step 4 — Dashboard Design
 - Created interactive visuals including:
 * KPI Cards
