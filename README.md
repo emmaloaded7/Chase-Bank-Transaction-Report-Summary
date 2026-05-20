@@ -60,3 +60,6 @@ Step 4 — Dashboard Design
 * Transaction Table
 * State Slicers
 Applied a consistent banking-style blue theme for better presentation.
+
+## Dashboard
+<img width="1366" height="768" alt="dashboard" src="https://github.com/user-attachments/assets/a59f7906-8ade-4457-99ae-8194217374c4" />
