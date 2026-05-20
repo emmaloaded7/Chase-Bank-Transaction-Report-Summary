@@ -20,6 +20,40 @@ The objective of this project was to analyze customer banking transactions and a
 4. Operational KPIs
 * What percentage of transactions were completed vs failed?
 * Which transaction type occurs most frequently?
-Operational KPIs
-What percentage of transactions were completed vs failed?
-Which transaction type occurs most frequently?
+
+[Chase-Bank-Transaction-Report-Summary](https://github.com/emmaloaded7/Chase-Bank-Transaction-Report-Summary/blob/main/dashboard.png)
+
+##Process
+
+Step 1 — Data Collection
+- Imported banking transaction dataset into Power BI
+Dataset included:
+* Customer information
+* Transaction details
+* States
+* Card types
+* Channels
+* Transaction fees
+* Account balances
+Step 2 — Data Cleaning
+* Performed data cleaning using Power Query:
+* Removed duplicates
+* Fixed inconsistent text formatting
+* Corrected data types
+* Standardized categorical values
+Step 3 — Data Transformation
+- Created calculated measures using DAX
+- Generated KPIs:
+* Total Balance
+* Total Transactions
+* Total Transaction Fees
+- Grouped customers into age categories
+Step 4 — Dashboard Design
+- Created interactive visuals including:
+* KPI Cards
+* Donut Charts
+* Line Chart
+* Map Visualization
+* Transaction Table
+* State Slicers
+Applied a consistent banking-style blue theme for better presentation.
