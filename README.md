@@ -35,7 +35,7 @@ Dataset included:
 * Channels
 * Transaction fees
 * Account balances
-Step 2 — Data Cleaning
+Step 2 —  Data Cleaning
 * Performed data cleaning using Power Query:
 * Removed duplicates
 * Fixed inconsistent text formatting
